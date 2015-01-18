@@ -1,3 +1,3 @@
 # First MEAN App
 
-Following [this](https://thinkster.io/angulartutorial/mean-stack-tutorial/) tutorial.
+Building my first app in JS following [this](https://thinkster.io/angulartutorial/mean-stack-tutorial/) tutorial.
